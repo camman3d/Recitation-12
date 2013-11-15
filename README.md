@@ -9,10 +9,8 @@
 ## The hard way (For the hardcore)
 
 1. Install Github (same as above)
-2. Open the command line
-    a. Windows: Run the "Git Shell" program.
-    b. Mac: Run "Terminal"
-3. From the command line, go to your workspace.
+2. Open the command line (**Windows**: Run the "Git Shell" program, **Mac**: Run "Terminal")
+3. From the command line, go to your Eclipse workspace.
 4. Clone the repository with the following command: `git clone https://github.com/camman3d/Recitation-12.git`
 
 ## If that doesn't work
